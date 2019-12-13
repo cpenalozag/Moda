@@ -151,6 +151,10 @@ Commom elements
     margin-bottom: 50px;
 }
 
+.item {
+    background-color: white;
+}
+
 /* buttons */
 
 .site-btn {

@@ -2,44 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="623eaa0d-f34f-4d0f-8585-ff6b9881f16d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/euforia_camisa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ataraxia/botas1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ataraxia/botas2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ataraxia/botas3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ataraxia_botas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/euforia_botas.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/OwlCarousel2-2.3.4_2.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/SlickNav-master.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/bootstrap-4.3.1-dist.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/font-awesome-4.7.0.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/jquery-circle-progress-1.2.2.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/photo credits - photo gallery.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/sass/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists.html" beforeDir="false" afterPath="$PROJECT_DIR$/artists.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ataraxia.html" beforeDir="false" afterPath="$PROJECT_DIR$/ataraxia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/editorial.html" beforeDir="false" afterPath="$PROJECT_DIR$/editorial.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/euforia.html" beforeDir="false" afterPath="$PROJECT_DIR$/euforia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/1_thumb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/2_thumb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/product_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/product_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/product_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/product_4.jpg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -52,18 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/editorial.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="98" selection-start-line="14" selection-start-column="98" selection-end-line="14" selection-end-column="98" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -79,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ataraxia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="373">
+              <caret line="150" column="61" selection-start-line="150" selection-start-column="61" selection-end-line="150" selection-end-column="61" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -91,41 +51,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="1226" column="5" selection-start-line="1226" selection-start-column="5" selection-end-line="1226" selection-end-column="5" />
+            <state relative-caret-position="276">
+              <caret line="154" column="28" selection-start-line="154" selection-start-column="28" selection-end-line="154" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/euforia_camisa.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="93" column="50" selection-start-line="93" selection-start-column="50" selection-end-line="93" selection-end-column="50" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/euforia_camisa.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="77" column="38" selection-start-line="77" selection-start-column="38" selection-end-line="77" selection-end-column="38" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/product.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="98" selection-start-line="14" selection-start-column="98" selection-end-line="14" selection-end-column="98" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/euforia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="98" selection-start-line="14" selection-start-column="98" selection-end-line="14" selection-end-column="98" />
+            <state relative-caret-position="148">
+              <caret line="87" column="85" selection-start-line="87" selection-start-column="85" selection-end-line="87" selection-end-column="85" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -198,12 +146,22 @@
         <option value="$PROJECT_DIR$/productos.html" />
         <option value="$PROJECT_DIR$/euforia/camisa.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/ataraxia.html" />
         <option value="$PROJECT_DIR$/product.html" />
-        <option value="$PROJECT_DIR$/euforia.html" />
         <option value="$PROJECT_DIR$/editorial.html" />
         <option value="$PROJECT_DIR$/euforia_camisa.html" />
+        <option value="$PROJECT_DIR$/euforia_botas.html" />
+        <option value="$PROJECT_DIR$/euforia_pantalon.html" />
+        <option value="$PROJECT_DIR$/ataraxia_botas.html" />
+        <option value="$PROJECT_DIR$/ataraxia_chaqueta.html" />
+        <option value="$PROJECT_DIR$/ataraxia_camiseta1.html" />
+        <option value="$PROJECT_DIR$/ataraxia_camiseta2.html" />
+        <option value="$PROJECT_DIR$/ataraxia_camiseta3.html" />
+        <option value="$PROJECT_DIR$/ataraxia_pantalon1.html" />
+        <option value="$PROJECT_DIR$/ataraxia_pantalon2.html" />
+        <option value="$PROJECT_DIR$/ataraxia_pantalon3.html" />
+        <option value="$PROJECT_DIR$/ataraxia.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/euforia.html" />
       </list>
     </option>
   </component>
@@ -239,7 +197,7 @@
               <item name="Moda" type="b2602c69:ProjectViewProjectNode" />
               <item name="Moda" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="euforia" type="462c0819:PsiDirectoryNode" />
+              <item name="ataraxia" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -254,18 +212,18 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img/ataraxia" />
-      <recent name="$PROJECT_DIR$/img/euforia" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/euforia" />
-      <recent name="$PROJECT_DIR$/Source" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/img/ataraxia" />
+      <recent name="$PROJECT_DIR$/img/euforia" />
+      <recent name="$PROJECT_DIR$/euforia" />
+      <recent name="$PROJECT_DIR$/Source" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -297,12 +255,12 @@
       <workItem from="1576172069048" duration="125000" />
       <workItem from="1576188378556" duration="6816000" />
       <workItem from="1576196107878" duration="2000" />
-      <workItem from="1576196178630" duration="152000" />
+      <workItem from="1576196178630" duration="1538000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17869000" />
+    <option name="totallyTimeSpent" value="19255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -362,47 +320,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/euforia/camisa.html" />
-    <entry file="file://$PROJECT_DIR$/ataraxia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="1226" column="5" selection-start-line="1226" selection-start-column="5" selection-end-line="1226" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="98" selection-start-line="14" selection-start-column="98" selection-end-line="14" selection-end-column="98" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/euforia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="98" selection-start-line="14" selection-start-column="98" selection-end-line="14" selection-end-column="98" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/editorial.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="98" selection-start-line="14" selection-start-column="98" selection-end-line="14" selection-end-column="98" />
+        <state relative-caret-position="-233">
+          <caret line="54" column="45" lean-forward="true" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -419,10 +340,117 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/euforia_pantalon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="94" column="67" selection-start-line="94" selection-start-column="67" selection-end-line="94" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/euforia_botas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="100" column="46" selection-start-line="100" selection-start-column="46" selection-end-line="100" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/euforia_camisa.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="77" column="38" selection-start-line="77" selection-start-column="38" selection-end-line="77" selection-end-column="38" />
+        <state relative-caret-position="103">
+          <caret line="93" column="50" selection-start-line="93" selection-start-column="50" selection-end-line="93" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="98" selection-start-line="14" selection-start-column="98" selection-end-line="14" selection-end-column="98" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ataraxia_chaqueta.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="77" column="40" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ataraxia_camiseta1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="108" column="70" selection-start-line="108" selection-start-column="70" selection-end-line="108" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ataraxia_camiseta2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="104" column="52" lean-forward="true" selection-start-line="104" selection-start-column="52" selection-end-line="104" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ataraxia_pantalon1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="108" column="69" selection-start-line="108" selection-start-column="69" selection-end-line="108" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ataraxia_camiseta3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="108" column="68" selection-start-line="108" selection-start-column="68" selection-end-line="108" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ataraxia_pantalon2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="83" column="22" lean-forward="true" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ataraxia_pantalon3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="101" column="73" lean-forward="true" selection-start-line="101" selection-start-column="73" selection-end-line="101" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ataraxia_botas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="108" column="58" selection-start-line="108" selection-start-column="58" selection-end-line="108" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ataraxia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="150" column="61" selection-start-line="150" selection-start-column="61" selection-end-line="150" selection-end-column="61" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="154" column="28" selection-start-line="154" selection-start-column="28" selection-end-line="154" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/euforia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="87" column="85" selection-start-line="87" selection-start-column="85" selection-end-line="87" selection-end-column="85" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
