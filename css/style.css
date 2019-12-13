@@ -152,7 +152,11 @@ Commom elements
 }
 
 .item {
-    background-color: white;
+    background-color: black;
+}
+
+.img-fluid {
+    margin: auto;
 }
 
 /* buttons */
@@ -492,7 +496,7 @@ Header section
 }
 
 .logo-lg {
-    max-width: 90vh;
+    max-width: 40vh;
 }
 
 .slicknav_menu {
@@ -867,6 +871,10 @@ Footer section
     padding: 2px 2px !important;
 }
 
+.col-editorial {
+    margin: auto;
+}
+
 /* ----------------
 Other Page
  -------------------
@@ -907,7 +915,7 @@ Gallery page
 
 .gallery-title {
     font-size: 48px;
-    margin-bottom: 110px;
+    margin-bottom: 30px;
 }
 
 .gallery-content {
@@ -1676,6 +1684,7 @@ Responsive
 }
 
 .products .item .item-info, .product .item .item-info {
+    background-color: black;
     position: absolute;
     bottom: 0;
     z-index: 2;
@@ -1686,7 +1695,7 @@ Responsive
 }
 
 .products .item .item-info h3, .product .item .item-info h3 {
-    color: #000;
+    color: white;
     font-size: 1.5rem;
 }
 
