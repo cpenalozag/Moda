@@ -1155,6 +1155,10 @@ Responsive
         padding: 15px;
     }
 
+    .hs-item .sm-overlay:before {
+        background: black !important;
+    }
+
     .hs-item .hs-text h2 {
         font-size: 100px;
     }
@@ -1233,9 +1237,8 @@ Responsive
         margin-left: 25px;
     }
 
-    .hs-item .hs-text p {
-        background-color: rgba(0,0,0,0.7);
-        max-width: 90vh;
+    .hs-item .sm-overlay:before {
+        background: black !important;
     }
 
     .hero-slider .owl-nav {
@@ -1352,10 +1355,6 @@ Responsive
         max-width: 40vh;
     }
 
-    .hs-item .hs-text p {
-        background-color: rgba(0,0,0,0.7);
-    }
-
     .gallery-quite h2 {
         font-size: 25px;
     }
@@ -1371,6 +1370,10 @@ Responsive
 
     .header-section .main-menu {
         display: none;
+    }
+
+    .hs-item .sm-overlay:before {
+        background: black !important;
     }
 
     .slicknav_menu {
@@ -1594,6 +1597,10 @@ Responsive
         font-size: 25px;
     }
 
+    .hs-item .sm-overlay:before {
+        background: black !important;
+    }
+
     hs-item {
         min-height: 80vh;
     }
@@ -1601,7 +1608,6 @@ Responsive
     .hs-item .hs-text p {
         margin-bottom: 10px;
         font-size: 30px;
-        background-color: rgba(0,0,0,0.7);
     }
 
     .header-warp {
