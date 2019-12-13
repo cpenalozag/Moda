@@ -1,6 +1,6 @@
 /* =================================
 ------------------------------------
-  The Look - Photo Gallery Template
+  Error 404
   Version: 1.0
  ------------------------------------
  ====================================*/
@@ -14,7 +14,7 @@ html,
 body {
     background-color: black;
     height: 100%;
-    font-family: "Lato", sans-serif;
+    font-family: 'Open Sans', sans-serif;
     -webkit-font-smoothing: antialiased;
     font-smoothing: antialiased;
 }
@@ -25,6 +25,7 @@ h3,
 h4,
 h5,
 h6 {
+    font-family: 'Share Tech', sans-serif;
     margin: 0;
     color: white;
     font-weight: 700;
@@ -58,6 +59,12 @@ p {
     font-size: 18px;
     color: white;
     line-height: 1.6;
+}
+
+hr {
+    color: white;
+    border: 2px solid;
+    min-width: 100%;
 }
 
 img {
@@ -116,7 +123,11 @@ Helper CSS
 .page-title h2 {
     font-size: 120px;
     line-height: 1;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
+}
+
+.page-title h3 {
+    font-size: 80px;
 }
 
 /*---------------------
@@ -507,6 +518,31 @@ Header section
 
 .navbar-item:hover {
     color: lightgray;
+    background-color: transparent;
+}
+
+.slicknav_nav li {
+    margin-top: 35px;
+}
+
+.slicknav_nav li a {
+    display: block;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.slicknav_nav li a:hover {
+    background-color: transparent;
+    color: lightgray;
+}
+
+.dropdown-menu a {
+    color: black;
+}
+
+.dropdown-menu a:hover {
+    color: gray;
 }
 
 /* ----------------
@@ -838,7 +874,7 @@ Other Page
 }
 
 .page-title {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
     max-width: 665px;
 }
 
@@ -1037,6 +1073,11 @@ Blog page
     margin-bottom: 20px;
 }
 
+.img-carousel {
+    margin: auto;
+    max-width: 60vh;
+}
+
 /* ----------------
 Contact page
  ---------------------*/
@@ -1143,6 +1184,10 @@ Responsive
         font-size: 90px;
     }
 
+    .page-title h3 {
+        font-size: 60px;
+    }
+
     .info-numbers .in-item h2 {
         margin-right: 30px;
         font-size: 70px;
@@ -1174,6 +1219,11 @@ Responsive
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .main-menu li a {
         margin-left: 25px;
+    }
+
+    .hs-item .hs-text p {
+        background-color: rgba(0,0,0,0.7);
+        max-width: 90vh;
     }
 
     .hero-slider .owl-nav {
@@ -1285,8 +1335,26 @@ Responsive
 /* Large Mobile :480px. */
 
 @media only screen and (max-width: 767px) {
+    .img-carousel {
+        margin: auto;
+        max-width: 40vh;
+    }
+
+    .hs-item .hs-text p {
+        background-color: rgba(0,0,0,0.7);
+    }
+
+    .gallery-quite h2 {
+        font-size: 25px;
+    }
+
+    .page-warp {
+        padding: 10px 15px;
+        clear: both;
+    }
+
     .header-warp {
-        padding: 30px 15px;
+        padding: 15px 15px;
     }
 
     .header-section .main-menu {
@@ -1300,14 +1368,12 @@ Responsive
     }
 
     .slicknav_btn {
-        margin-right: 10px;
         background-color: transparent;
     }
 
     .slicknav_nav a:hover,
     .slicknav_nav .slicknav_row:hover {
-        background: #25394c;
-        color: #fff;
+        background: lightgray;
     }
 
     .hero-slider .owl-nav {
@@ -1315,8 +1381,7 @@ Responsive
     }
 
     .hs-item {
-        height: auto;
-        padding: 15px;
+        min-height: 90vh;
     }
 
     .hs-item .hs-text {
@@ -1352,7 +1417,7 @@ Responsive
     }
 
     .gallery-item {
-        margin-bottom: 70px;
+        margin-bottom: 20px;
     }
 
     .blog-title-col,
@@ -1397,6 +1462,22 @@ Responsive
     .big-title,
     .page-title h2 {
         font-size: 80px;
+    }
+
+    .big-title, .gallery-item, .gallery-title, .gallery-content, .gallery-quite h2 {
+        margin-bottom: 10px;
+    }
+
+    .gallery-item, .gallery-title, .gallery-content {
+        margin-bottom: 30px;
+    }
+
+    .page-title h3 {
+        font-size: 50px;
+    }
+
+    .page-title {
+        margin-bottom: 20px;
     }
 
     .gallery-content {
@@ -1484,6 +1565,8 @@ Responsive
     .icon-box {
         margin-bottom: 40px;
     }
+
+
 }
 
 /* Small Mobile :320px. */
@@ -1493,6 +1576,41 @@ Responsive
     .page-title h2,
     .hs-item .hs-text h2 {
         font-size: 60px;
+    }
+
+    .gallery-quite h2 {
+        font-size: 25px;
+    }
+
+    hs-item {
+        min-height: 80vh;
+    }
+
+    .hs-item .hs-text p {
+        margin-bottom: 10px;
+        font-size: 30px;
+        background-color: rgba(0,0,0,0.7);
+    }
+
+    .header-warp {
+        padding: 15px 15px;
+    }
+
+    .big-title {
+        margin-bottom: 10px;
+    }
+
+    .page-title h3 {
+        font-size: 30px;
+    }
+
+    .page-title {
+        margin-bottom: 20px;
+    }
+
+    .img-carousel {
+        margin: auto;
+        max-width: 30vh;
     }
 
     .gallery-title {
@@ -1505,17 +1623,20 @@ Responsive
 }
 
 
-
 .products, .product {
-    }
+}
+
 .products > [class*="col-"], .product > [class*="col-"] {
 
-    text-align: center; }
+    text-align: center;
+}
+
 .products .item, .product .item {
     text-align: center;
     display: block;
     position: relative;
-    }
+}
+
 .products .item .tag, .product .item .tag {
     position: absolute;
     background: #ffe5ae;
@@ -1530,7 +1651,9 @@ Responsive
     z-index: 2;
     -webkit-transform: rotate(-90deg) translateX(-100%) translateY(-70%);
     -ms-transform: rotate(-90deg) translateX(-100%) translateY(-70%);
-    transform: rotate(-90deg) translateX(-100%) translateY(-70%); }
+    transform: rotate(-90deg) translateX(-100%) translateY(-70%);
+}
+
 .products .item img, .product .item img {
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
@@ -1539,11 +1662,15 @@ Responsive
     -ms-transform: scale(1);
     transform: scale(1);
     z-index: 1;
-    position: relative; }
+    position: relative;
+}
+
 .products .item:hover img, .product .item:hover img {
     -webkit-transform: scale(0.8);
     -ms-transform: scale(0.8);
-    transform: scale(0.8); }
+    transform: scale(0.8);
+}
+
 .products .item .item-info, .product .item .item-info {
     position: absolute;
     bottom: 0;
@@ -1551,24 +1678,42 @@ Responsive
     width: 100%;
     -webkit-transform: translateY(-70%);
     -ms-transform: translateY(-50%);
-    transform: translateY(-70%); }
+    transform: translateY(-70%);
+}
+
 .products .item .item-info h3, .product .item .item-info h3 {
     color: #000;
-    font-size: 1.5rem; }
+    font-size: 1.5rem;
+}
+
 @media (max-width: 991.98px) {
     .products .item .item-info h3, .product .item .item-info h3 {
-        font-size: 1rem; } }
+        font-size: 1rem;
+    }
+}
+
 .products .item .item-info .collection, .product .item .item-info .collection {
-    color: gray; }
+    color: gray;
+}
+
 @media (max-width: 991.98px) {
     .products .item .item-info .collection, .product .item .item-info .collection {
-        font-size: .9rem; } }
+        font-size: .9rem;
+    }
+}
+
 .products .item .item-info .price, .product .item .item-info .price {
     color: #000;
-    font-size: 1.5rem; }
+    font-size: 1.5rem;
+}
+
 .products .item .item-info .price del, .product .item .item-info .price del {
     color: #adb5bd;
-    margin-left: 2%; }
+    margin-left: 2%;
+}
+
 @media (max-width: 991.98px) {
     .products .item .item-info .price, .product .item .item-info .price {
-        font-size: 1rem; } }
+        font-size: 1rem;
+    }
+}
