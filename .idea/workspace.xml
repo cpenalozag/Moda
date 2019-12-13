@@ -55,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/popper.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="45">
+              <caret line="3" column="20164" selection-start-line="3" selection-start-column="20164" selection-end-line="3" selection-end-column="20164" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -67,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="75">
+              <caret line="5" column="57791" selection-start-line="5" selection-start-column="57791" selection-end-line="5" selection-end-column="57791" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -163,8 +163,8 @@
         <option value="$PROJECT_DIR$/ataraxia_pantalon2.html" />
         <option value="$PROJECT_DIR$/ataraxia_pantalon3.html" />
         <option value="$PROJECT_DIR$/ataraxia_pantalon1.html" />
-        <option value="$PROJECT_DIR$/js/popper.min.js" />
         <option value="$PROJECT_DIR$/js/bootstrap.min.js" />
+        <option value="$PROJECT_DIR$/js/popper.min.js" />
       </list>
     </option>
   </component>
@@ -248,21 +248,21 @@
       <workItem from="1576172069048" duration="125000" />
       <workItem from="1576188378556" duration="6816000" />
       <workItem from="1576196107878" duration="2000" />
-      <workItem from="1576196178630" duration="10277000" />
+      <workItem from="1576196178630" duration="10346000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27994000" />
+    <option name="totallyTimeSpent" value="28063000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.24458599" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.24458599" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -480,20 +480,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/popper.min.js">
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="75">
+          <caret line="5" column="57791" selection-start-line="5" selection-start-column="57791" selection-end-line="5" selection-end-column="57791" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
+    <entry file="file://$PROJECT_DIR$/js/popper.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="45">
+          <caret line="3" column="20164" selection-start-line="3" selection-start-column="20164" selection-end-line="3" selection-end-column="20164" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
